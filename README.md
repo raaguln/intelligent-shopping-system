@@ -39,4 +39,4 @@ The proposed modules of the project are :
 
   ○ Google Cloud
   
-● Front end website using HTML, CSS libraries, JavaScript libraries and Django
+● Front end website using HTML, CSS libraries, JavaScript libraries.
